@@ -1,0 +1,6 @@
+.ng-invalid{
+    &.ng-dirty,
+    &.ng-touched{
+         border-color: rgb(168, 7, 7);
+    }
+}
